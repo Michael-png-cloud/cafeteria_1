@@ -537,7 +537,7 @@ main #video iframe{
 
 /* --------------------- Area dos breakpointsde responsividade ------------------- */
 /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) and (max-width: 767px) { 
+@media (min-width: 0px) and (max-width: 767px) { 
     #superior nav{
         background-color: rgba(0, 0, 0, 0.8) !important;
         position: fixed;
